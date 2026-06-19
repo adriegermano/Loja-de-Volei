@@ -30,4 +30,4 @@ Embora o projeto já seja funcional, ele ainda está em fase inicial e servirá 
 
 ## 👤 Autor
 
-Desenvolvido por [Seu Nome] como projeto acadêmico da disciplina Algoritmos e Técnicas de Programação I.
+Desenvolvido por Adriel Germano como projeto acadêmico da disciplina Algoritmos e Técnicas de Programação I.
